@@ -1,7 +1,7 @@
 # nodejs-backend
 
-hola puebe 
-
+<h3>Para instalar las dependencias:<h3>
+<hr>
 ```
-print("hola")
+npm install
 ```
