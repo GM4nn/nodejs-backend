@@ -13,7 +13,3 @@ nodemon: <a href="https://www.npmjs.com/package/nodemon">click aqui para ver nod
 ```
 npm run dev
 ```
-# Para realizar la crud de usuarios:
-con las siguientes urls teniendo en cuenta que la url base es: 
-http://"localhost o cualquier otro host donde este alojado el proyecto"/api/v1/users/"alguna url de la crud de la imagen de abajo"
-<img src="https://i.imgur.com/3KXIWrH.png">
