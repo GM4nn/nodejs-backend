@@ -13,3 +13,8 @@ nodemon: <a href="https://www.npmjs.com/package/nodemon">click aqui para ver nod
 ```
 npm run dev
 ```
+# Para realizar la crud de usuarios:
+Se usara las urls de la imagen con su debido metodo(POST,GET, etc)teniendo en cuenta que la url base es: <div style="width:100%"></div>
+http://"host"/api/v1/users/"alguna url de la crud de la imagen de abajo"
+<div style="width:100%"></div>
+<img src="https://i.imgur.com/3KXIWrH.png">
