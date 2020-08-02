@@ -3,7 +3,5 @@
 hola puebe 
 
 ```
-
 print("hola")
-
 ```
